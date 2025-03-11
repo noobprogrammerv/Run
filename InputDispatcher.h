@@ -12,4 +12,4 @@ public:
 	InputDispatcher(RenderWindow* window);
 	void dispatchInputEvents();
 	void registerNewInputReceiver(InputReceiver* ir);
-}
+};
