@@ -18,5 +18,13 @@
     <ClCompile Include="Run.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="InputDispatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="InputDispatcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
